@@ -24,8 +24,10 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
