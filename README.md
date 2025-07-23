@@ -24,7 +24,7 @@
 
 ---
 
-<p align="left">
+<p align="left" padding-left="5em">
   <img src="https://github-readme-stats.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight" />
 </p>
