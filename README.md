@@ -1,5 +1,5 @@
 <h3 align="left">Olá, eu sou Danrlei</h3>
-![Desenvolvedor Front-End](https://img.shields.io/badge/Desenvolvedor%20Front--End-0000FF?style=for-the-badge&logoColor=white)👨‍💻
+[Desenvolvedor Front-End](#)👨‍💻
 
 ---
 
