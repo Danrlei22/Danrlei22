@@ -1,5 +1,5 @@
 <h3 align="left">Olá, eu sou Danrlei</h3>
-<a href="#" style="color:#0000FF; text-decoration:none; font-weight:bold;">Desenvolvedor Front-End</a> 👨‍💻
+<span style="color:#0000FF; font-weight:bold;">Desenvolvedor Front-End</span> 👨‍💻
 
 ---
 
