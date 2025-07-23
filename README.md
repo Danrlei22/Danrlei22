@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou Danrlei</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h3 align="left">Olá, eu sou Danrlei</h3>
+<h3 align="left" color="blue">Desenvolvedor Front-End 👨‍💻</h3>
 
 ---
 
@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight"/>
 </div>
 
