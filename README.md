@@ -32,6 +32,6 @@
 ---
 
 ### 🌐 Onde me encontrar:
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)]([[https://seuportfolio.com](https://www.linkedin.com/in/danrlei-vieira-85b335231/)](https://github.com/Danrlei22))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/danrlei-vieira-85b335231/))
-[![E-mail](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=white)](danrlei_vieira@hotmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Danrlei22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danrlei-vieira-85b335231/)
+[![E-mail](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danrlei_vieira@hotmail.com)
