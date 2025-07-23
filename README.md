@@ -1,5 +1,5 @@
 <h3 align="left">Olá, eu sou Danrlei</h3>
-<span style="color:#0000FF; font-weight:bold;">Desenvolvedor Front-End</span> 👨‍💻
+👨‍💻 ** Desenvolvedor Front-End **
 
 ---
 
