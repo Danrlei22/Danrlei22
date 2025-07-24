@@ -42,10 +42,6 @@
 
 ---
 
-![snake gif](https://github.com/Danrlei22/Danrlei22/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌐 Onde me encontrar:
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Danrlei22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danrlei-vieira-85b335231/)
