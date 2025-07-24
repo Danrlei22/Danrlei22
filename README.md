@@ -1,6 +1,6 @@
-<h3 align="left">Olá, eu sou Danrlei</h3>
+<h3 align="left">Olá 👋, eu sou o Danrlei</h3>
 
-### 👨‍💻 Desenvolvedor Front-End
+### 👨‍💻 Desenvolvedor Front-End | React | JavaScript
 
 ---
 
@@ -39,6 +39,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight"/>
 </div>
+
+---
+
+![snake gif](https://github.com/Danrlei22/Danrlei22/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
