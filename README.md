@@ -1,6 +1,6 @@
 <h3 align="center">Olá 👋, eu sou o Danrlei</h3>
 
-### 👨‍💻 Desenvolvedor Front-End | React | JavaScript
+<h3 align="center"> 👨‍💻 Desenvolvedor Front-End | React | JavaScript</h3>
 
 ---
 
