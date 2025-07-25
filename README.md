@@ -1,4 +1,4 @@
-<h3 align="left">Olá 👋, eu sou o Danrlei</h3>
+<h3 align="center">Olá 👋, eu sou o Danrlei</h3>
 
 ### 👨‍💻 Desenvolvedor Front-End | React | JavaScript
 
