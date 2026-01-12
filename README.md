@@ -36,10 +36,10 @@
 
 <div align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+    src="https://github-readme-stats.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
