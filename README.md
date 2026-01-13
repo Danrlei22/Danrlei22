@@ -37,9 +37,9 @@
 
 ### 📊 Estatísticas
 
-  ![GitHub Stats](https://github-readme-stats-danrleis-projects.vercel.app/api?username=danrleiVieira&show_icons=true&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats-danrleis-projects.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight)
 
-  ![Top Langs](https://github-readme-stats-danrleis-projects.vercel.app/api/top-langs/?username=danrleiVieira&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats-danrleis-projects.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight)
 
 
 ---
