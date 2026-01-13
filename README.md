@@ -34,16 +34,14 @@
 
 ---
 
-<h3 align="center">📊 Estatísticas</h3>
+<h3 align="center">📊 Destaques</h3>
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats-danrleis-projects.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  🚀 Projetos focados em Front-end com React e JavaScript/TypeScript<br/>
+  🧠 Código limpo, organizado e bem documentado<br/>
+  📦 Experiência com consumo de APIs e boas práticas<br/>
+  🔧 Versionamento com Git e GitHub
 </p>
-
-
-  ![Top Langs](https://github-readme-stats-danrleis-projects.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight)
-
 
 ---
 
