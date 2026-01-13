@@ -34,9 +34,13 @@
 
 ---
 
+
 ### 📊 Estatísticas
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrleiVieira&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats-danrleis-projects.vercel.app/api?username=danrleiVieira&show_icons=true&theme=tokyonight&hide_border=true)
+
+  ![Top Langs](https://github-readme-stats-danrleis-projects.vercel.app/api/top-langs/?username=danrleiVieira&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
