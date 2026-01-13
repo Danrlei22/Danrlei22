@@ -37,7 +37,7 @@
 
 ### 📊 Estatísticas
 
-  ![GitHub Stats](https://github-readme-stats-danrleis-projects.vercel.app/api?username=Danrlei22)
+  ![GitHub Stats](https://github-readme-stats-danrleis-projects.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
   ![Top Langs](https://github-readme-stats-danrleis-projects.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight)
 
