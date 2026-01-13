@@ -34,10 +34,13 @@
 
 ---
 
+<h3 align="center">📊 Estatísticas</h3>
 
-### 📊 Estatísticas
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats-danrleis-projects.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-  ![GitHub Stats](https://github-readme-stats-danrleis-projects.vercel.app/api?username=Danrlei22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2)
 
   ![Top Langs](https://github-readme-stats-danrleis-projects.vercel.app/api/top-langs/?username=Danrlei22&layout=compact&theme=tokyonight)
 
